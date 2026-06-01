@@ -1,3 +1,5 @@
 This is a new note
 
 I have added another line
+
+This is a new feature branch
